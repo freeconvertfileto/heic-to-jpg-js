@@ -2,7 +2,7 @@
 
 Convert iPhone HEIC photos to JPEG format using the heic2any library, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/heic-to-jpg
+**Live Demo:** https://file-converter-free.com/en/image-tools/heic-to-jpg-online
 
 ## How It Works
 
